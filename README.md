@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Drinkuth
-- 👀 I’m interested in technology, AI, tech gadgets, project management and PMO
-- 🌱 I’m currently learning for Scrum master exam
+- 👀 I’m interested in technology, AI, tech gadgets, digitalization and digital business as well as project management
+- 🌱 I’m a certified Scrum Master
 - 💞️ I’m looking to collaborate on freelanver job opportunities in the digial customer / experiance space
-- 📫 How to reach me via twitter/X as @drinkuth
+- 📫 You can reach me via 🌳 https://linktr.ee/drinkuth
 
 <!---
 Drinkuth/Drinkuth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
